@@ -1,1 +1,1 @@
-# ds_project1_headhunter
+# Проект HeadHunter
